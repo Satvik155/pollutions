@@ -1,0 +1,40 @@
+html{
+    height: 140%;
+}
+body{
+    background-image:url(IMAGE/pollution\ 2.jpg);
+    background-size: cover;}
+header{
+
+        height: 100px ;
+        width: 1100px ;
+        text-align: center;
+        font-size: 80px ;
+        color: red;
+        text-emphasis: underline;
+}
+main{
+    height: 500px ;
+    width: 1100px ;
+    text-align: left;
+    font-size: large;
+    color: rebeccapurple ;
+    }
+    h2{
+        font-size: 32px; 
+     }
+     h3{
+         font-size: 32px;
+     }
+     h4{
+         font-size: 32px;
+     }
+     h5{
+         font-size: 32px;
+     }
+     h6{
+         font-size: 32px;
+     }   
+     h1{
+         font-size: 40px;
+     }
